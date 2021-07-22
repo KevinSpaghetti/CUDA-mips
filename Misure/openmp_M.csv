@@ -1,0 +1,11 @@
+algorithm,image,width,height,reading,processing,writing
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 184.383, 78.864, 212.11
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 184.063, 78.548, 205.129
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 181.491, 74.799, 206.406
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 181.821, 70.433, 204.388
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 183.652, 69.989, 209.426
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 182.863, 63.312, 207.796
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 183.817, 80.134, 209.915
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 179.122, 77.312, 205.964
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 182.92, 112.176, 206.367
+OpenMP, Bricks_2K.jpg , 2048 , 1024 , 181.228, 70.873, 209.332

@@ -1,0 +1,11 @@
+algorithm,image,width,height,reading,processing,writing
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 186.072, 8.782, 290.463
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 186.183, 8.147, 278.613
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 178.666, 7.742, 289.881
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 185.698, 8.136, 282.777
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 190.289, 7.784, 288.887
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 181.464, 8.143, 285.428
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 181.189, 8.079, 283.986
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 180.416, 8.625, 285.184
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 187.489, 8.18, 292.006
+CUDA, Bricks_2K.jpg , 2048 , 1024 , 187.115, 8.23, 289.503

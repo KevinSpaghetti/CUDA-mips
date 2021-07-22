@@ -1,0 +1,11 @@
+algorithm,image,width,height,reading,processing,writing
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 670.646, 25.76, 1028.65
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 663.222, 25.113, 794.276
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 667.512, 25.746, 816.418
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 669.591, 25.634, 795.308
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 670.984, 25.999, 805.497
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 666.878, 26.245, 792.886
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 666.639, 25.431, 802.87
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 664.54, 25.517, 867.94
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 666.583, 25.222, 874.363
+OpenMP + CUDA async, Bricks_4K.jpg , 4096 , 2048 , 668.286, 25.876, 852.137
